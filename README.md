@@ -1,8 +1,7 @@
 Mysql utf8mb3 -> utf8mb4 replication
+===
 
-====================
-
-Shows how mysql acts when replicating from columns that are utf8mb3 to utf8mb4.
+Shows how mysql acts when replicating from columns that are utf8mb3 to those that are utf8mb4.
 
 1. `./build.sh` - Sets up docker containers for replication
 2. `./run.bash`
